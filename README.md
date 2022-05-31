@@ -71,7 +71,7 @@ for i in range(0,9):
 ## OUTPUT:
 
 ### Original Image and Grayscale Image
-![image][huh 1](https://user-images.githubusercontent.com/75241177/171125878-21972f45-79ba-42d7-9f6e-3c8728654b77.jpg)
+![image]![huh 1](https://user-images.githubusercontent.com/75241177/171125878-21972f45-79ba-42d7-9f6e-3c8728654b77.jpg)
 
 
 ### Global Thresholding
